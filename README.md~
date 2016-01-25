@@ -1,12 +1,13 @@
-# ARDUINO # VI_BE_TV
+# ARDUINO
+# VI_BE_TV
 
 Acquisizione dati da modulo sensore ultrasuoni per gestire sistema allerta e comando IR
 
 COMPONENTI:
-- Arduino Uno
-- sensore HC-SR04
-- led rosso
-- buzzer
+Arduino Uno
+sensore HC-SR04
+led rosso
+buzzer
 
 
 A TV accesa inizializzato il device questi ciclicamente controlla che non ci siano 'ostacoli' entro il suo raggio
